@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @christymadilao
-- 👀 I’m currently a UX Designer
-- 🌱 I’m currently learning how to code
+👋 Hi, I’m Christy!
+I am a product designer & amateur coder. 
 
 
 <!---
